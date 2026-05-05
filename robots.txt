@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /
+
+User-agent: Yandexbot
+Allow: /
+
+User-agent: Googlebot
+Allow: /
+
+Sitemap: https://krasnova488461.github.io/money-women-club/sitemap.xml
